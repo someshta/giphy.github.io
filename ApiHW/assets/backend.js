@@ -74,6 +74,13 @@ function getGiphys(whatever) {
 
 }
 
+//here I wanted to start a function that allows the user to pause and unpause the gifs
+//I know I need a temporary variable to store the animated/still gifs in, and switch them around on a click event.
+// I was thinking of the bubble sort exercise we did
+//I wasn't sure what parameter I would put into the if statement...
+//I was able to atleast make it console log something when you click on a gif
+//so I know I was off to a start, I want to revisit this part of my hw and make this work
+
 function gifAnimation() {
 
 
